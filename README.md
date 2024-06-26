@@ -19,3 +19,9 @@ This repository contains Jupyter Notebook file that demonstrate data cleaning te
 -  Null values Visualization using heatmaps
 
 ![image](https://github.com/Javaria-Shabbir24/MachineLearning-DataCleaning/assets/102341169/aeb2aecf-4b39-4dc3-bccd-1217f9f3b2ec)
+
+## Prerequisites
+
+- install necessary libraries by running the following command on command prompt
+  
+pip install seaborn matplotlib pandas
